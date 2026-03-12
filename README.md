@@ -26,5 +26,5 @@ It is the result of two publications. If you use any of the scripts, please cite
 
 ## References
 
-- J. Schramm, R. Tonner-Zech, Unveiling Correlations in Metal-Organic Interface Properties: A Computational Exploration of Alternant and Non-Alternant π-Electron Systems, ChemPlusChem 2025, 90 (6), e202400771, DOI: 10.1002/cplu.202400771.
-- J. Schramm, R. Tonner-Zech, Molecular Aromaticity Determines Metal-Organic Interface Properties: Alternant and Non-Alternant π-Electron Systems on Cu(111), J. Phys. Chem. C 2025, submitted.
+- J. Schramm, R. Tonner-Zech, Unveiling Correlations in Metal-Organic Interface Properties: A Computational Exploration of Alternant and Non-Alternant π-Electron Systems, ChemPlusChem 2025, 90 (6), e202400771, https://doi.org/10.1002/cplu.202400771.
+- J. Schramm, R. Tonner-Zech, Molecular Aromaticity Determines Metal-Organic Interface Properties: Alternant and Non-Alternant π-Electron Systems on Cu(111), J. Phys. Chem. C 2026, 130 (1), 546-559, https://doi.org/10.1021/acs.jpcc.5c05720.
